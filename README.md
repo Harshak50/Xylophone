@@ -1,4 +1,4 @@
 
 <p align="center">
-  <img src="img.png" width="350" title="Xylophone">
+  <img src="img.png" width="250" title="Xylophone">
 </p>
